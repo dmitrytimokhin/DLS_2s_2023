@@ -10,5 +10,7 @@
 ---
 #### Оценки за домшние задания:
 3.1. Simple Embeddings (/10);
+
 6.1. Text Classification (10/10);
+
 8.1. Language modeling (/10)
